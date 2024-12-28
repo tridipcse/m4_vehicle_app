@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Toyota X Corolla",
+        "type": "Car",
+        "price": "2000000",
+        "image": "https:\/\/catalogphoto.goo-net.com\/carphoto\/10101029_200412.jpg"
+    },
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "8500000",
+        "image": "https:\/\/www.autosbangla.com\/images\/bmw\/bmw-x1.jpg"
+    },
+    {
+        "name": "Land Rover",
+        "type": "Car",
+        "price": "23500000",
+        "image": "https:\/\/www.motortrend.com\/uploads\/sites\/10\/2024\/09\/2025-land-rover-defender-90-p400-x-dynamic-se-4wd-suv-angular-front.png"
+    },
+    {
+        "name": "R15 V3 ",
+        "type": "Motorbike",
+        "price": "525000",
+        "image": "https:\/\/admin.sawaribd.com\/storage\/product_image\/FrlVuVyck54t6wPOJXlcsiX8anKHFGMOymB6MJPM.jpg"
+    }
+]
